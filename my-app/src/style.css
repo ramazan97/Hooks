@@ -1,0 +1,15 @@
+.active{
+    background: yellow;
+}
+.ozellik{
+    background: blue;
+}
+
+.btn1{
+    padding: 10px ;
+    margin: 10px;
+}
+
+.renk{
+    color: red;
+}
